@@ -75,16 +75,18 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 
 ## OUTPUT:
 1. Monte Carlo Control trained without pretrained Q values.
+<img width="456" height="52" alt="image" src="https://github.com/user-attachments/assets/99e66846-775a-4d5b-9593-d2404afce06f" />
 
-<img width="505" height="32" alt="image" src="https://github.com/user-attachments/assets/af2b9884-bf9e-441c-8e52-95ef4ed19a89" />
+
 
 2. Monte Carlo Control trained with pretrained Q values.
-   
-<img width="492" height="33" alt="image" src="https://github.com/user-attachments/assets/8fd3c51a-1b58-43a2-99c6-62a62ed41536" />
+<img width="468" height="36" alt="image" src="https://github.com/user-attachments/assets/1d833797-e0d5-424f-803b-668f4c3ff8a6" />
+
 
 3. Monte Carlo Control trained with pretrained Q values and modified parameters.
    
-<img width="502" height="32" alt="image" src="https://github.com/user-attachments/assets/b18df253-48b8-460e-8e52-ba1ff31442ae" />
+<img width="439" height="34" alt="image" src="https://github.com/user-attachments/assets/3c57dbf8-6640-4adf-95d1-85fc641700cc" />
+
 
 ## RESULT:
 Therefore, Monte Carlo algorithm to stabilize the Cart Pole is developed and executed successfully.
